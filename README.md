@@ -31,4 +31,4 @@ A simple 2D fighting game made using **Pygame**, where Naruto and Sasuke battle 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/evanpreet001/Naruto-vs-sasuke-game.git
+   git clone https://github.com/evanpreet001/Naruto-vs-sasuke-game-.git
