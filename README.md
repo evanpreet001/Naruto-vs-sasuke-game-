@@ -14,9 +14,9 @@ A simple 2D fighting game made using **Pygame**, where Naruto and Sasuke battle 
 
 ---
 
-## Screenshots
+## Gameplay Video
 
-*()*
+[Watch the Gameplay](https://drive.google.com/file/d/1_rYNG55FqCstatIdojcGBpxVUiXpSNrD/view?usp=drivesdk)
 
 ---
 
